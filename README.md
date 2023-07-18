@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=19ranjan" alt="19ranjan" /></a> </p>
+Hello 👋🏻, I'm Harshita Ranjan, a Web developer, persuing my Btech from JIIT NOIDA.. Preferred pronouns: She/Her/Hers 👩🏻
+
+Currently, I'm working as a Freelancer with internship experiences to work with industry experts in domains : front-end development, Web development and Back-End Development 👩🏻‍💻 . I have worked on projects that provides a scalable, performant, consistent and rich experience to users. I primarily deal with technologies like ⚡ MONGODB, REACTJS, EXPRESSJS, NODEJS along with all frontend frameworks. I am open source contributor aspirer, in future i am looking forward to do it. I have strong knowledge in Data structures and algorithms using C++, Computer networks, operating systems, DBMS.
+
 
 - 🔭 I’m currently working on **Web3 project, online ticket selling.**
 
